@@ -110,6 +110,35 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 
 ---
 
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### AI Agents & Memory
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [vap-e](https://github.com/elestirelbilinc-sketch/vap-e) | Execution Control Layer for AI Agents | Free | ![stars](https://img.shields.io/github/stars/elestirelbilinc-sketch/vap-e?style=flat) | *[@elestirelbilinc-sketch](https://github.com/elestirelbilinc-sketch)* |
+| [agent-skill-loader](https://github.com/back1ply/agent-skill-loader) | Agent skill loader | Free | ![stars](https://img.shields.io/github/stars/back1ply/agent-skill-loader?style=flat) | *[@back1ply](https://github.com/back1ply)* |
+| [context-mcp](https://github.com/dodopayments/context-mcp) | ContextMCP for Knowledge & Memory | Free | ![stars](https://img.shields.io/github/stars/dodopayments/context-mcp?style=flat) | *[@thepushkaraj](https://github.com/thepushkaraj)* |
+| [tilde](https://github.com/topskychen/tilde) | Privacy-first AI identity | Free | ![stars](https://img.shields.io/github/stars/topskychen/tilde?style=flat) | *[@topskychen](https://github.com/topskychen)* |
+| [shodh-memory](https://github.com/varun29ankuS/shodh-memory) | Knowledge & Memory MCP | Free | ![stars](https://img.shields.io/github/stars/varun29ankuS/shodh-memory?style=flat) | *[@varun29ankuS](https://github.com/varun29ankuS)* |
+| [devrag](https://github.com/tomohiro-owada/devrag) | Lightweight Local RAG MCP | Free | ![stars](https://img.shields.io/github/stars/tomohiro-owada/devrag?style=flat) | *[@tomohiro-owada](https://github.com/tomohiro-owada)* |
+| [mcp-agent-identity](https://github.com/faalantir/mcp-agent-identity) | Agent Identity Protocol | Free | ![stars](https://img.shields.io/github/stars/faalantir/mcp-agent-identity?style=flat) | *[@faalantir](https://github.com/faalantir)* |
+| [context-crystallizer](https://github.com/hubertciebiada/context-crystallizer) | AI Context Engineering | Free | ![stars](https://img.shields.io/github/stars/hubertciebiada/context-crystallizer?style=flat) | *[@hubertciebiada](https://github.com/hubertciebiada)* |
+| [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) | Fast filesystem MCP | Free | ![stars](https://img.shields.io/github/stars/efforthye/fast-filesystem-mcp?style=flat) | *[@hyelang](https://github.com/hyelang)* |
+
+### Aggregators
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [mcp-gateway](https://github.com/ViperJuice/mcp-gateway) | MCP Gateway aggregator | Free | ![stars](https://img.shields.io/github/stars/ViperJuice/mcp-gateway?style=flat) | *[@ViperJuice](https://github.com/ViperJuice)* |
+| [legends-mcp](https://github.com/cryptosquanch/legends-mcp) | Chat with legendary founders | Free | ![stars](https://img.shields.io/github/stars/cryptosquanch/legends-mcp?style=flat) | *[@cryptosquanch](https://github.com/cryptosquanch)* |
+| [CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) | Tencent CloudBase AI ToolKit | Free | ![stars](https://img.shields.io/github/stars/TencentCloudBase/CloudBase-AI-ToolKit?style=flat) | *[@binggg](https://github.com/binggg)* |
+| [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | DefeatBeta API MCP | Free | ![stars](https://img.shields.io/github/stars/defeat-beta/defeatbeta-api?style=flat) | *[@bwzheng2010](https://github.com/bwzheng2010)* |
+
+---
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding MCPs to this list.
