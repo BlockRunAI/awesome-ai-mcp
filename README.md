@@ -127,6 +127,9 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [mcp-agent-identity](https://github.com/faalantir/mcp-agent-identity) | Agent Identity Protocol | Free | ![stars](https://img.shields.io/github/stars/faalantir/mcp-agent-identity?style=flat) | *[@faalantir](https://github.com/faalantir)* |
 | [context-crystallizer](https://github.com/hubertciebiada/context-crystallizer) | AI Context Engineering | Free | ![stars](https://img.shields.io/github/stars/hubertciebiada/context-crystallizer?style=flat) | *[@hubertciebiada](https://github.com/hubertciebiada)* |
 | [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) | Fast filesystem MCP | Free | ![stars](https://img.shields.io/github/stars/efforthye/fast-filesystem-mcp?style=flat) | *[@hyelang](https://github.com/hyelang)* |
+| [agent-domain-service-mcp](https://github.com/gregm711/agent-domain-service-mcp) | Agent domain service | Free | ![stars](https://img.shields.io/github/stars/gregm711/agent-domain-service-mcp?style=flat) | *[@gregm711](https://github.com/gregm711)* |
+| [ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) | EchoRift AI agents | Free | ![stars](https://img.shields.io/github/stars/AaronVick/ECHO_RIFT_MCP?style=flat) | *[@AaronVick](https://github.com/AaronVick)* |
+| [gICM](https://github.com/icm-motion/gICM) | OPUS 67 skill management | Free | ![stars](https://img.shields.io/github/stars/icm-motion/gICM?style=flat) | *[@0motionguy](https://github.com/0motionguy)* |
 
 ### Aggregators
 
