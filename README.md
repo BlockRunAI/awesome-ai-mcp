@@ -45,7 +45,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 |------|-------------|---------|-------|
 | [Pinecone MCP](https://github.com/pinecone-io/mcp-server) | Pinecone vector database | Freemium | ![GitHub stars](https://img.shields.io/github/stars/pinecone-io/mcp-server?style=flat) |
 | [Weaviate MCP](https://github.com/weaviate/mcp-server) | Weaviate vector search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/weaviate/mcp-server?style=flat) |
-| [Qdrant MCP](https://github.com/qdrant/mcp-server-qdrant) | Qdrant vector database | Freemium | ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant?style=flat) |
+| [Qdrant MCP](https://github.com/qdrant/mcp-server-qdrant) | Official Qdrant vector database | Freemium | ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant?style=flat) |
 | [Chroma MCP](https://github.com/chroma-core/mcp-server) | Chroma embeddings DB | Free | ![GitHub stars](https://img.shields.io/github/stars/chroma-core/mcp-server?style=flat) |
 | [Milvus MCP](https://github.com/milvus-io/mcp-server) | Milvus vector database | Free | ![GitHub stars](https://img.shields.io/github/stars/milvus-io/mcp-server?style=flat) |
 | [LanceDB MCP](https://github.com/lancedb/mcp-server) | LanceDB serverless vector | Free | ![GitHub stars](https://img.shields.io/github/stars/lancedb/mcp-server?style=flat) |
@@ -86,6 +86,8 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 |------|-------------|---------|-------|
 | [OpenAI Whisper MCP](https://github.com/openai/whisper-mcp) | Speech-to-text | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/openai/whisper-mcp?style=flat) |
 | [ElevenLabs MCP](https://github.com/elevenlabs/mcp-server) | Text-to-speech | Freemium | ![GitHub stars](https://img.shields.io/github/stars/elevenlabs/mcp-server?style=flat) |
+| [ElevenLabs Official MCP](https://github.com/elevenlabs/elevenlabs-mcp) | Official ElevenLabs TTS server | Freemium | ![GitHub stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=flat) |
+| [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | TTS, image gen, video gen | Freemium | ![GitHub stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat) |
 | [AssemblyAI MCP](https://github.com/assemblyai/mcp-server) | Transcription and audio AI | Freemium | ![GitHub stars](https://img.shields.io/github/stars/assemblyai/mcp-server?style=flat) |
 | [Deepgram MCP](https://github.com/deepgram/mcp-server) | Speech recognition | Freemium | ![GitHub stars](https://img.shields.io/github/stars/deepgram/mcp-server?style=flat) |
 | [Resemble AI MCP](https://github.com/resemble-ai/mcp-server) | Voice cloning and TTS | Requires account | ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/mcp-server?style=flat) |
@@ -99,6 +101,10 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [LangChain MCP](https://github.com/langchain-ai/mcp-server) | LangChain framework | Free | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/mcp-server?style=flat) |
+| [fastmcp](https://github.com/jlowin/fastmcp) | Fast Pythonic MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat) |
+| [mcp-mem0](https://github.com/coleam00/mcp-mem0) | Long-term agent memory | Free | ![GitHub stars](https://img.shields.io/github/stars/coleam00/mcp-mem0?style=flat) |
+| [just-prompt](https://github.com/disler/just-prompt) | Unified LLM provider interface | Free | ![GitHub stars](https://img.shields.io/github/stars/disler/just-prompt?style=flat) |
+| [Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool) | Google Gemini integration | Free | ![GitHub stars](https://img.shields.io/github/stars/jamubc/gemini-mcp-tool?style=flat) |
 | [LlamaIndex MCP](https://github.com/run-llama/mcp-server) | LlamaIndex data framework | Free | ![GitHub stars](https://img.shields.io/github/stars/run-llama/mcp-server?style=flat) |
 | [AutoGPT MCP](https://github.com/autogpt/mcp-server) | AutoGPT agent | Free | ![GitHub stars](https://img.shields.io/github/stars/autogpt/mcp-server?style=flat) |
 | [CrewAI MCP](https://github.com/crewai/mcp-server) | CrewAI multi-agent | Free | ![GitHub stars](https://img.shields.io/github/stars/crewai/mcp-server?style=flat) |
@@ -136,6 +142,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Perplexity MCP](https://github.com/perplexity-ai/mcp-server) | Perplexity AI search | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/perplexity-ai/mcp-server?style=flat) |
+| [Perplexity Official MCP](https://github.com/perplexityai/modelcontextprotocol) | Official Perplexity API Platform | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/perplexityai/modelcontextprotocol?style=flat) |
 | [Tavily MCP](https://github.com/tavily-ai/mcp-server) | Tavily AI search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/tavily-ai/mcp-server?style=flat) |
 | [Exa MCP](https://github.com/exa-labs/mcp-server) | Exa AI search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/exa-labs/mcp-server?style=flat) |
 | [You.com MCP](https://github.com/you-com/mcp-server) | You.com AI search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/you-com/mcp-server?style=flat) |
