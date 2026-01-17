@@ -130,6 +130,16 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [agent-domain-service-mcp](https://github.com/gregm711/agent-domain-service-mcp) | Agent domain service | Free | ![stars](https://img.shields.io/github/stars/gregm711/agent-domain-service-mcp?style=flat) | *[@gregm711](https://github.com/gregm711)* |
 | [ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) | EchoRift AI agents | Free | ![stars](https://img.shields.io/github/stars/AaronVick/ECHO_RIFT_MCP?style=flat) | *[@AaronVick](https://github.com/AaronVick)* |
 | [gICM](https://github.com/icm-motion/gICM) | OPUS 67 skill management | Free | ![stars](https://img.shields.io/github/stars/icm-motion/gICM?style=flat) | *[@0motionguy](https://github.com/0motionguy)* |
+| [mcp-cli](https://github.com/chrishayuk/mcp-cli) | MCP CLI tool | Free | ![stars](https://img.shields.io/github/stars/chrishayuk/mcp-cli?style=flat) | *[@chrishayuk](https://github.com/chrishayuk)* |
+| [ApeRAG](https://github.com/apecloud/ApeRAG) | Production-ready GraphRAG with MCP support | Free | ![stars](https://img.shields.io/github/stars/apecloud/ApeRAG?style=flat) | *[@apecloud](https://github.com/apecloud)* |
+| [tenets](https://github.com/jddunn/tenets) | Local-first MCP server for intelligent context | Free | ![stars](https://img.shields.io/github/stars/jddunn/tenets?style=flat) | *[@jddunn](https://github.com/jddunn)* |
+
+### Visualization
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) | Mermaid diagram generation | Free | ![stars](https://img.shields.io/github/stars/Narasimhaponnada/mermaid-mcp?style=flat) | *[@Narasimhaponnada](https://github.com/Narasimhaponnada)* |
+| [markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) | Markdown to interactive mind maps | Free | ![stars](https://img.shields.io/github/stars/jinzcdev/markmap-mcp-server?style=flat) | *[@jinzcdev](https://github.com/jinzcdev)* |
 
 ### Aggregators
 
