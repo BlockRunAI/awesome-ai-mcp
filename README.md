@@ -30,6 +30,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) | Anthropic code examples | Free | ![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=flat) |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Official MCP reference servers | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 | [MindsDB](https://github.com/mindsdb/mindsdb) | Federated Query Engine for AI | Free | ![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat) |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Open-source AI agent with Gemini | Free | ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat) |
 
 ---
 
@@ -39,6 +40,22 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 |------|-------------|---------|-------|
 | [fastmcp (Python)](https://github.com/jlowin/fastmcp) | Fast Pythonic MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat) |
 | [fastmcp (TypeScript)](https://github.com/punkpeye/fastmcp) | TypeScript MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat) |
+| [FastAPI MCP](https://github.com/tadata-org/fastapi_mcp) | Expose FastAPI endpoints as MCP tools | Free | ![GitHub stars](https://img.shields.io/github/stars/tadata-org/fastapi_mcp?style=flat) |
+| [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | MCP Gateway & Registry from IBM | Free | ![GitHub stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat) |
+| [MCPO](https://github.com/open-webui/mcpo) | Simple, secure MCP-to-OpenAPI proxy | Free | ![GitHub stars](https://img.shields.io/github/stars/open-webui/mcpo?style=flat) |
+| [MCP Registry](https://github.com/modelcontextprotocol/registry) | Community-driven MCP server registry | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat) |
+
+---
+
+## Coding Agents
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Serena](https://github.com/oraios/serena) | Coding agent toolkit with semantic retrieval and editing | Free | ![GitHub stars](https://img.shields.io/github/stars/oraios/serena?style=flat) |
+| [Claude Flow](https://github.com/ruvnet/claude-flow) | Agent orchestration platform for Claude | Free | ![GitHub stars](https://img.shields.io/github/stars/ruvnet/claude-flow?style=flat) |
+| [PAL MCP](https://github.com/BeehiveInnovations/pal-mcp-server) | Multi-model support for Claude Code/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server?style=flat) |
+| [MCP Use](https://github.com/mcp-use/mcp-use) | Easiest way to interact with MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat) |
+| [Klavis](https://github.com/Klavis-AI/klavis) | MCP integration platform for AI agents | Free | ![GitHub stars](https://img.shields.io/github/stars/Klavis-AI/klavis?style=flat) |
 
 ---
 
@@ -83,6 +100,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [Perplexity Official](https://github.com/perplexityai/modelcontextprotocol) | Official Perplexity MCP | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/perplexityai/modelcontextprotocol?style=flat) |
 | [Exa MCP](https://github.com/exa-labs/exa-mcp-server) | Exa neural search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat) |
 | [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | Brave Search API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/brave/brave-search-mcp-server?style=flat) |
+| [Deep Research](https://github.com/u14app/deep-research) | Use any LLMs for deep research | Free | ![GitHub stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat) |
 
 ---
 
