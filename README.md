@@ -31,6 +31,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Official MCP reference servers | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 | [MindsDB](https://github.com/mindsdb/mindsdb) | Federated Query Engine for AI | Free | ![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat) |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Open-source AI agent with Gemini | Free | ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat) |
+| [Context7](https://github.com/upstash/context7) | Up-to-date code documentation for LLMs | Free | ![GitHub stars](https://img.shields.io/github/stars/upstash/context7?style=flat) |
 
 ---
 
@@ -56,6 +57,8 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [PAL MCP](https://github.com/BeehiveInnovations/pal-mcp-server) | Multi-model support for Claude Code/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server?style=flat) |
 | [MCP Use](https://github.com/mcp-use/mcp-use) | Easiest way to interact with MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat) |
 | [Klavis](https://github.com/Klavis-AI/klavis) | MCP integration platform for AI agents | Free | ![GitHub stars](https://img.shields.io/github/stars/Klavis-AI/klavis?style=flat) |
+| [Magic MCP](https://github.com/21st-dev/magic-mcp) | Like v0 but in Cursor/WindSurf/Cline | Free | ![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=flat) |
+| [ACI](https://github.com/aipotheosis-labs/aci) | 600+ tools unified MCP server | Free | ![GitHub stars](https://img.shields.io/github/stars/aipotheosis-labs/aci?style=flat) |
 
 ---
 
