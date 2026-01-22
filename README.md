@@ -41,10 +41,12 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 |------|-------------|---------|-------|
 | [fastmcp (Python)](https://github.com/jlowin/fastmcp) | Fast Pythonic MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat) |
 | [fastmcp (TypeScript)](https://github.com/punkpeye/fastmcp) | TypeScript MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat) |
+| [MCP Go](https://github.com/mark3labs/mcp-go) | Go implementation of MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/mark3labs/mcp-go?style=flat) |
 | [FastAPI MCP](https://github.com/tadata-org/fastapi_mcp) | Expose FastAPI endpoints as MCP tools | Free | ![GitHub stars](https://img.shields.io/github/stars/tadata-org/fastapi_mcp?style=flat) |
 | [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | MCP Gateway & Registry from IBM | Free | ![GitHub stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat) |
 | [MCPO](https://github.com/open-webui/mcpo) | Simple, secure MCP-to-OpenAPI proxy | Free | ![GitHub stars](https://img.shields.io/github/stars/open-webui/mcpo?style=flat) |
 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Community-driven MCP server registry | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat) |
+| [LangChain MCP](https://github.com/langchain-ai/langchain-mcp-adapters) | LangChain integration with MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat) |
 
 ---
 
@@ -53,6 +55,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Serena](https://github.com/oraios/serena) | Coding agent toolkit with semantic retrieval and editing | Free | ![GitHub stars](https://img.shields.io/github/stars/oraios/serena?style=flat) |
+| [MCP Agent](https://github.com/lastmile-ai/mcp-agent) | Build effective agents with MCP patterns | Free | ![GitHub stars](https://img.shields.io/github/stars/lastmile-ai/mcp-agent?style=flat) |
 | [Claude Flow](https://github.com/ruvnet/claude-flow) | Agent orchestration platform for Claude | Free | ![GitHub stars](https://img.shields.io/github/stars/ruvnet/claude-flow?style=flat) |
 | [PAL MCP](https://github.com/BeehiveInnovations/pal-mcp-server) | Multi-model support for Claude Code/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server?style=flat) |
 | [MCP Use](https://github.com/mcp-use/mcp-use) | Easiest way to interact with MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat) |
