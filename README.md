@@ -26,7 +26,6 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [Anthropic MCP](https://github.com/anthropic/anthropic-mcp) | Claude models | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/anthropic/anthropic-mcp?style=flat) |
 | [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) | Anthropic code examples | Free | ![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=flat) |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Official MCP reference servers | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 | [MindsDB](https://github.com/mindsdb/mindsdb) | Federated Query Engine for AI | Free | ![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat) |
@@ -39,6 +38,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=flat) |
 | [fastmcp (Python)](https://github.com/jlowin/fastmcp) | Fast Pythonic MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat) |
 | [fastmcp (TypeScript)](https://github.com/punkpeye/fastmcp) | TypeScript MCP framework | Free | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat) |
 | [MCP Go](https://github.com/mark3labs/mcp-go) | Go implementation of MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/mark3labs/mcp-go?style=flat) |
@@ -94,7 +94,6 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [Mem0 MCP](https://github.com/mem0ai/mem0-mcp) | Memory layer for AI agents | Free | ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat) |
 | [just-prompt](https://github.com/disler/just-prompt) | Unified LLM provider interface | Free | ![GitHub stars](https://img.shields.io/github/stars/disler/just-prompt?style=flat) |
 | [Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool) | Google Gemini integration | Free | ![GitHub stars](https://img.shields.io/github/stars/jamubc/gemini-mcp-tool?style=flat) |
-| [Gemini MCP](https://github.com/philschmid/gemini-mcp) | Gemini model integration | Free | ![GitHub stars](https://img.shields.io/github/stars/philschmid/gemini-mcp?style=flat) |
 
 ---
 
@@ -102,7 +101,6 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [Perplexity MCP](https://github.com/perplexityai/mcp-server) | Perplexity AI search | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/perplexityai/mcp-server?style=flat) |
 | [Perplexity Official](https://github.com/perplexityai/modelcontextprotocol) | Official Perplexity MCP | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/perplexityai/modelcontextprotocol?style=flat) |
 | [Exa MCP](https://github.com/exa-labs/exa-mcp-server) | Exa neural search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat) |
 | [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | Brave Search API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/brave/brave-search-mcp-server?style=flat) |
@@ -142,7 +140,6 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
-| [vap-e](https://github.com/elestirelbilinc-sketch/vap-e) | Execution Control Layer for AI Agents | Free | ![stars](https://img.shields.io/github/stars/elestirelbilinc-sketch/vap-e?style=flat) | *[@elestirelbilinc-sketch](https://github.com/elestirelbilinc-sketch)* |
 | [agent-skill-loader](https://github.com/back1ply/agent-skill-loader) | Agent skill loader | Free | ![stars](https://img.shields.io/github/stars/back1ply/agent-skill-loader?style=flat) | *[@back1ply](https://github.com/back1ply)* |
 | [context-mcp](https://github.com/dodopayments/context-mcp) | ContextMCP for Knowledge & Memory | Free | ![stars](https://img.shields.io/github/stars/dodopayments/context-mcp?style=flat) | *[@thepushkaraj](https://github.com/thepushkaraj)* |
 | [tilde](https://github.com/topskychen/tilde) | Privacy-first AI identity | Free | ![stars](https://img.shields.io/github/stars/topskychen/tilde?style=flat) | *[@topskychen](https://github.com/topskychen)* |
@@ -152,8 +149,6 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [context-crystallizer](https://github.com/hubertciebiada/context-crystallizer) | AI Context Engineering | Free | ![stars](https://img.shields.io/github/stars/hubertciebiada/context-crystallizer?style=flat) | *[@hubertciebiada](https://github.com/hubertciebiada)* |
 | [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) | Fast filesystem MCP | Free | ![stars](https://img.shields.io/github/stars/efforthye/fast-filesystem-mcp?style=flat) | *[@hyelang](https://github.com/hyelang)* |
 | [agent-domain-service-mcp](https://github.com/gregm711/agent-domain-service-mcp) | Agent domain service | Free | ![stars](https://img.shields.io/github/stars/gregm711/agent-domain-service-mcp?style=flat) | *[@gregm711](https://github.com/gregm711)* |
-| [ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) | EchoRift AI agents | Free | ![stars](https://img.shields.io/github/stars/AaronVick/ECHO_RIFT_MCP?style=flat) | *[@AaronVick](https://github.com/AaronVick)* |
-| [gICM](https://github.com/icm-motion/gICM) | OPUS 67 skill management | Free | ![stars](https://img.shields.io/github/stars/icm-motion/gICM?style=flat) | *[@0motionguy](https://github.com/0motionguy)* |
 | [mcp-cli](https://github.com/chrishayuk/mcp-cli) | MCP CLI tool | Free | ![stars](https://img.shields.io/github/stars/chrishayuk/mcp-cli?style=flat) | *[@chrishayuk](https://github.com/chrishayuk)* |
 | [ApeRAG](https://github.com/apecloud/ApeRAG) | Production-ready GraphRAG with MCP support | Free | ![stars](https://img.shields.io/github/stars/apecloud/ApeRAG?style=flat) | *[@apecloud](https://github.com/apecloud)* |
 | [tenets](https://github.com/jddunn/tenets) | Local-first MCP server for intelligent context | Free | ![stars](https://img.shields.io/github/stars/jddunn/tenets?style=flat) | *[@jddunn](https://github.com/jddunn)* |
