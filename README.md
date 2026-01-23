@@ -46,7 +46,9 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | MCP Gateway & Registry from IBM | Free | ![GitHub stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat) |
 | [MCPO](https://github.com/open-webui/mcpo) | Simple, secure MCP-to-OpenAPI proxy | Free | ![GitHub stars](https://img.shields.io/github/stars/open-webui/mcpo?style=flat) |
 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Community-driven MCP server registry | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat) |
+| [MCPJungle](https://github.com/mcpjungle/MCPJungle) | Self-hosted MCP Gateway/Registry for enterprise | Free | ![GitHub stars](https://img.shields.io/github/stars/mcpjungle/MCPJungle?style=flat) |
 | [LangChain MCP](https://github.com/langchain-ai/langchain-mcp-adapters) | LangChain integration with MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat) |
+| [NeuroLink](https://github.com/juspay/neurolink) | 12 AI providers, 100+ models, unified API | Free | ![GitHub stars](https://img.shields.io/github/stars/juspay/neurolink?style=flat) |
 
 ---
 
@@ -129,6 +131,7 @@ A curated list of MCP (Model Context Protocol) servers for AI, machine learning,
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Jupyter MCP](https://github.com/datalayer/jupyter-mcp-server) | Jupyter notebooks integration | Free | ![GitHub stars](https://img.shields.io/github/stars/datalayer/jupyter-mcp-server?style=flat) |
+| [MATLAB MCP](https://github.com/matlab/matlab-mcp-core-server) | Official MATLAB MCP from MathWorks | Free | ![GitHub stars](https://img.shields.io/github/stars/matlab/matlab-mcp-core-server?style=flat) |
 
 ---
 
